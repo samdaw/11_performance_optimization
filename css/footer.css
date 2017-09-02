@@ -1,0 +1,21 @@
+footer {
+    padding: 1.5rem 3rem;
+}
+footer .row {
+    max-width: 100%;
+}
+footer .columns {
+    padding-left: 0;
+}
+footer .social {
+    text-align: right;
+}
+.inner-shape {
+    fill: #f7f7f7;
+}
+
+footer .social svg {
+    height: 35px;
+    width: 35px;
+    fill: #A5ACBA;
+}
